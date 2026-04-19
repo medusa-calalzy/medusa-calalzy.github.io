@@ -1,2 +1,2 @@
 # ajhebard.github.io
-AJs website
+AJ Hebard
